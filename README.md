@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 Estudante de Ciência da Computação na UFAPE (desde 2022)<br>💻 Foco em desenvolvimento web e projetos full stack<br>📚 Conhecimento em React, JavaScript, TypeScript, Java, C, Python, SQL e AWS<br>🚀 Certificado AWS Cloud Practitioner
-
+🎓 Computer Science student at UFAPE (since 2022)<br>💻 Focused on web development and full stack projects<br>📚 Skilled in React, JavaScript, TypeScript, Java, C, Python, SQL, and AWS<br>🚀 AWS Cloud Practitioner Certified
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emanuel-reino-5b9a3826a/) 
